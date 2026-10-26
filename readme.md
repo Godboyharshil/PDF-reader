@@ -4,6 +4,8 @@ A RAG-based chatbot that lets you ask questions about your own documents and sho
 
 You drop PDFs or PowerPoint files into a folder, it indexes them, and you can query across all of them from a simple Streamlit interface.
 
+Currently supplied with pdf's about CSE SEM 3 Syllabus
+
 ---
 
 ## Tech Stack
