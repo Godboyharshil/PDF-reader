@@ -1,7 +1,5 @@
 .env
 venv/
-faiss_index/
-ocr_cache.json
 __pycache__/
 *.pyc
 .DS_Store
